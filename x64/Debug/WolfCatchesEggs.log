@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (WolfCatchesEggsGameWindow.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Андрей\Desktop\ТПУ\2_2\Летняя практика\Game\WolfCatchesEggs\FileHandler.h(67,9): warning C4156: удаление массива без использования формы оператора "delete", предусмотренной для массива; подставлена предусмотренная форма оператора
+C:\Users\Андрей\Desktop\ТПУ\2_2\Летняя практика\Game\WolfCatchesEggs\FileHandler.h(67,9): warning C4154: удаление массива; выполнено преобразование к указателю
+C:\Users\Андрей\Desktop\ТПУ\2_2\Летняя практика\Game\WolfCatchesEggs\GameWindow.h(587,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Андрей\Desktop\ТПУ\2_2\Летняя практика\Game\WolfCatchesEggs\NameForm.h(231): warning C4715: NameForm::toCyrylic: значение возвращается не при всех путях выполнения
+  WolfCatchesEggs.vcxproj -> C:\Users\Андрей\Desktop\ТПУ\2_2\Летняя практика\Game\WolfCatchesEggs\WolfCatchesEggs.exe

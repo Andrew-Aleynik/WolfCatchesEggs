@@ -1,0 +1,23 @@
+﻿main.obj : error LNK2001: неразрешенный внешний символ SDL_DestroyTexture.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_ClearQueuedAudio.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_RenderCopy.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_RenderClear.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_PauseAudioDevice.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_LoadWAV_RW.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_QueueAudio.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_DestroyRenderer.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_Init.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_DestroyWindow.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_Quit.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_Delay.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_LoadBMP_RW.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_GetMouseState.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_PollEvent.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_FreeSurface.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_OpenAudioDevice.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_CreateRenderer.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_RenderPresent.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_CreateWindow.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_RWFromFile.
+main.obj : error LNK2001: неразрешенный внешний символ SDL_CreateTextureFromSurface.
+C:\Users\Андрей\Desktop\ТПУ\2_2\Летняя практика\Game\WolfCatchesEggs\x64\Release\WolfCatchesEggs.exe : fatal error LNK1120: неразрешенных внешних элементов: 22
